@@ -10,7 +10,7 @@
     "fs-extra": "7.0.1",
     "image-type": "3.0.0",
     "jsrsasign": "8.0.12",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "logdown": "3.2.7",
     "minimist": "1.2.0",
     "moment": "2.24.0",
